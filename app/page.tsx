@@ -7,9 +7,9 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`This is Ashley Beebakee, I think it's about time that I
+        {`Hello there, I am Ashley Beebakee, I think it's about time that I
         showcased my work and projects here. Feel free to explore
-        and get in touch!`}
+        and get in touch! Do try out the deployed projects, and let me know.`}
       </p>
       <div className="my-8">
         <BlogPosts />
@@ -17,3 +17,4 @@ export default function Page() {
     </section>
   )
 }
+                                                                                
