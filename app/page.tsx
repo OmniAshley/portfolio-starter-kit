@@ -7,9 +7,7 @@ export default function Page() {
         Ciao, I'm Ashley!
       </h1>
       <p className="mb-4">
-        {`Hello there, I am Ashley Beebakee, I think it's about time that I
-        showcased my work and projects here. Feel free to explore
-        and get in touch! About Me, Experience, Projects, Skills, Tech Stack.`}
+        {`...`}
       </p>
       <div className="my-8">
         <BlogPosts />
