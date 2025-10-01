@@ -5,6 +5,7 @@ export default function Page() {
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Ciao, I'm Ashley!
+        💡 Passionate about: AGI 🤖 • Software Development 💻 • Game Development 🎮
       </h1>
       <p className="mb-4">
         {`...`}
