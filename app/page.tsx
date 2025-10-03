@@ -86,7 +86,7 @@ export default function Page() {
       <Section
         id="experience"
         eyebrow="Experience"
-        title="Journey & roles"
+        title="Work Experience"
         description="A concise timeline of roles, impact areas, and explorations."
       >
         <Timeline />
