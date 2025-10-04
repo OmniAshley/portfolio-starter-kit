@@ -42,7 +42,7 @@ export default function Page() {
       {/* About */}
       <Section
         id="about"
-        eyebrow="About"
+        eyebrow="About Me"
         title="What I'm focused on"
         description={
           <>
