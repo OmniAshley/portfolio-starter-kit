@@ -43,7 +43,7 @@ export default function Page() {
       <Section
         id="about"
         eyebrow="About Me"
-        title="What I'm focused on"
+        title="Description"
         description={
           <>
             These days I'm experimenting with lightweight <strong>AI-assisted development loops</strong>, building internal tools that reduce cognitive overhead, and honing a <strong>game design mindset</strong> to influence product intuitiveness. I'm also documenting learning paths for complex topics to make them more accessible.
