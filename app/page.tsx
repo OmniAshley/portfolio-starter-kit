@@ -77,7 +77,7 @@ export default function Page() {
         id="skills"
         eyebrow="Skills"
         title="Tech Stack"
-        description="Evolving and always opinionated toward clarity, maintainability and DX."
+        description="Series of familiar tools, libraries, and languages I use regularly."
       >
         <SkillsGrid />
       </Section>
