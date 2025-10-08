@@ -87,7 +87,7 @@ export default function Page() {
         id="experience"
         eyebrow="Experience"
         title="Work Experience"
-        description="A concise timeline of roles, impact areas, and explorations."
+        description="Employment History"
       >
         <Timeline />
       </Section>
