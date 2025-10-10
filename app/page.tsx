@@ -118,7 +118,7 @@ export default function Page() {
       <Section
         id="contact"
         eyebrow="Contact"
-        title="Let's collaborate"
+        title="Let's connect!"
         description="Open to interesting opportunities, knowledge sharing, and creative experiments. Feel free to reach out."
       >
         <FadeIn direction="none" className="flex flex-col gap-4">
