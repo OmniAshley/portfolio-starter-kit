@@ -106,7 +106,7 @@ export default function Page() {
       <Section
         id="writing"
         eyebrow="Writing"
-        title="Latest posts"
+        title="Post History"
         description="LinkedIn posts and personal blog entries on dev, AI, game dev, and more."
       >
         <div className="mt-2">
