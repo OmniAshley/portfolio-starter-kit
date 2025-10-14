@@ -107,7 +107,7 @@ export default function Page() {
         id="writing"
         eyebrow="Writing"
         title="Post History"
-        description="LinkedIn posts and personal blog entries on dev, AI, game dev, and more."
+        description="LinkedIn posts and personal blog entries."
       >
         <div className="mt-2">
           <BlogPosts />
