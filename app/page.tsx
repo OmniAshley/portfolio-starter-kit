@@ -96,7 +96,7 @@ export default function Page() {
       <Section
         id="projects"
         eyebrow="Projects"
-        title="Selected work & experiments"
+        title="Personal Projects"
         description="A mix of professional, indie, and exploratory builds—more coming soon."
       >
         <ProjectsGrid />
