@@ -97,7 +97,7 @@ export default function Page() {
         id="projects"
         eyebrow="Projects"
         title="Personal Projects"
-        description="A mix of professional, indie, and exploratory builds—more coming soon."
+        description="A mix of experimental and practical projects I've built."
       >
         <ProjectsGrid />
       </Section>
